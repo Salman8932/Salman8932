@@ -1,5 +1,5 @@
 ### Hi there👋
-🌱 I’m currently learning Aeronautical Engineering in Singapore Polytechnic
+🌱 I’m currently pursuing a Diploma in Aeronautical Engineering at Singapore Polytechnic
 
 🔭 I’m currently working on ways to improve studying techniques using GitHub
 
