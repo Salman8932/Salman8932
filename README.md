@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I am a student using GitHub to improve in studying 😃
 <!--
 **Salman8932/Salman8932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
