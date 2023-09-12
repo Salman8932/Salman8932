@@ -1,5 +1,6 @@
 ### Hi there👋
 🌱 I’m currently learning Aeronautical Engineering in Singapore Polytechnic
+
 🔭 I’m currently working on ways to improve studying techniques using GitHub
 ⚡ Fun fact: Numbers lines are actually 2-dimensional 😧
 
