@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on ways to improve studying techniques using GitHub
 
-⚡ Fun fact: Numbers lines are actually 2-dimensional 😧
+⚡ Fun fact: I like pizza 😧
 
 
 <!--
